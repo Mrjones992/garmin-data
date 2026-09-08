@@ -3,7 +3,7 @@
   "sleepScore": 82,
   "bodyBattery": 60,
   "trainingReadiness": 58,
-  "steps": 1341,
+  "steps": 24566,
   "hrvStatus": "BALANCED",
   "hrvWeeklyAvg": 63,
   "hrvLastNight": null,
@@ -12,5 +12,5 @@
   "acuteLoad": null,
   "chronicLoad": null,
   "recoveryTimeHrs": null,
-  "vo2max": null
+  "vo2max": 43.0
 }
