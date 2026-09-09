@@ -1,9 +1,9 @@
 {
   "date": "2026-09-09",
   "sleepScore": 77,
-  "bodyBattery": 34,
+  "bodyBattery": 33,
   "trainingReadiness": 26,
-  "steps": 11617,
+  "steps": 11627,
   "hrvStatus": "BALANCED",
   "hrvWeeklyAvg": 62,
   "hrvLastNight": null,
