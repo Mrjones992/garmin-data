@@ -1,10 +1,10 @@
 {
   "date": "2026-09-14",
-  "syncTime": "08:55 UTC",
+  "syncTime": "11:48 UTC",
   "sleepScore": 85,
-  "bodyBattery": 65,
+  "bodyBattery": 51,
   "trainingReadiness": 45,
-  "steps": 4202,
+  "steps": 6439,
   "hrvStatus": "LOW",
   "hrvWeeklyAvg": 50,
   "hrvLastNight": null,
